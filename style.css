@@ -22,18 +22,21 @@ img {
 
 a:link {
     text-decoration: none;
+    color: #2D1A39;
 }
 
 a:visited {
     text-decoration: none;
+    color: #2D1A39;
 }
 
 a:hover {
+    text-decoration: none;
     font-style: italic;
 }
 
 a:active {
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 .container {
@@ -104,19 +107,6 @@ a:active {
     -moz-animation-delay: 6.5s;
     -webkit-animation-duration: 1s;
     -webkit-animation-delay: 6.5s;
-}
-
-.fifth {
-    -moz-animation-duration: 1s;
-    -moz-animation-delay: 8s;
-    -webkit-animation-duration: 1s;
-    -webkit-animation-delay: 8s;
-}
-
-.shadow {
-    -moz-box-shadow:    3px 3px 5px 6px #465865/*#812020*/;
-    -webkit-box-shadow: 3px 3px 5px 6px #465865;
-    box-shadow:         3px 3px 5px 6px #465865;
 }
 
 .links {
