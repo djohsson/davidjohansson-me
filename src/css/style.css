@@ -1,0 +1,114 @@
+body {
+	background-color: #B299C0;
+    font-family: 'Roboto Condensed', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-font-smoothing: antialiased;
+}
+
+p {
+    overflow: hidden;
+    font-size: 150%;
+    color: #E4D4ED;
+}
+
+h1 {
+    font-size: 450%;
+    /*text-shadow: 2px 6px #465865;*/
+}
+
+img {
+    padding: 10px;
+}
+
+a:link {
+    text-decoration: none;
+    color: #2D1A39;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #2D1A39;
+}
+
+a:hover {
+    text-decoration: none;
+    font-style: italic;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+.container {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    color: #E4D4ED;
+}
+
+.header {
+    -moz-animation-duration: 1s;
+    -moz-animation-delay: 1s;
+    -webkit-animation-duration: 1s;
+    -webkit-animation-delay: 1s;
+}
+
+.text-container {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    color: #5F1488;
+}
+
+.project-container {
+
+}
+
+.project {
+    font-family: "Arial", Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 200%;
+    color: #2D1A39;
+}
+
+.project_descr {
+
+}
+
+.first {
+    -moz-animation-duration: 1s;
+    -moz-animation-delay: 2s;
+    -webkit-animation-duration: 1s;
+    -webkit-animation-delay: 2s;
+}
+
+.second {
+    -moz-animation-duration: 1s;
+    -moz-animation-delay: 3.5s;
+    -webkit-animation-duration: 1s;
+    -webkit-animation-delay: 3.5s;
+}
+
+.third {
+    -moz-animation-duration: 1s;
+    -moz-animation-delay: 5s;
+    -webkit-animation-duration: 1s;
+    -webkit-animation-delay: 5s;
+}
+
+.fourth {
+    -moz-animation-duration: 1s;
+    -moz-animation-delay: 6.5s;
+    -webkit-animation-duration: 1s;
+    -webkit-animation-delay: 6.5s;
+}
+
+.links {
+    text-align: justify;
+}
