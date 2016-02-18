@@ -57,14 +57,14 @@ a:active {
 }
 
 .text-container {
-    position: absolute;
-    top: 400px;
+    position: relative;
+    top: 150px;
     left: 50%;
-    min-width: 450px;
-    max-width: 450px;
-    -moz-transform: translateX(-50%) translateY(-50%);
-    -webkit-transform: translateX(-50%) translateY(-50%);
-    transform: translateX(-50%) translateY(-50%);
+    min-width: 600px;
+    max-width: 600px;
+    -moz-transform: translateX(-50%) translateY(0%);
+    -webkit-transform: translateX(-50%) translateY(0%);
+    transform: translateX(-50%) translateY(0%);
     color: #5F1488;
 }
 
@@ -81,6 +81,10 @@ a:active {
 
 .project_descr {
 
+}
+
+.skill {
+    color: #5F1488;
 }
 
 .first {
