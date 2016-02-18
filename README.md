@@ -1,6 +1,6 @@
 # djohsson-me
 
-My personal web page.
+<http://djohsson.me>
 
 ---
 Uses <https://github.com/daneden/animate.css> to animate elements

@@ -41,7 +41,7 @@ a:active {
 
 .container {
     position: absolute;
-    top: 10%;
+    top: 100px;
     left: 50%;
     -moz-transform: translateX(-50%) translateY(-50%);
     -webkit-transform: translateX(-50%) translateY(-50%);
@@ -58,11 +58,10 @@ a:active {
 
 .text-container {
     position: absolute;
-    top: 40%;
+    top: 400px;
     left: 50%;
     min-width: 450px;
     max-width: 450px;
-    margin-top: 50px;
     -moz-transform: translateX(-50%) translateY(-50%);
     -webkit-transform: translateX(-50%) translateY(-50%);
     transform: translateX(-50%) translateY(-50%);
