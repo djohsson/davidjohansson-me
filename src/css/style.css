@@ -86,30 +86,16 @@ a:active {
 
 .first {
     -moz-animation-duration: 1s;
-    -moz-animation-delay: 2s;
+    -moz-animation-delay: 0s;
     -webkit-animation-duration: 1s;
-    -webkit-animation-delay: 2s;
+    -webkit-animation-delay: 0s;
 }
 
 .second {
     -moz-animation-duration: 1s;
-    -moz-animation-delay: 3.5s;
+    -moz-animation-delay: 1.5s;
     -webkit-animation-duration: 1s;
-    -webkit-animation-delay: 3.5s;
-}
-
-.third {
-    -moz-animation-duration: 1s;
-    -moz-animation-delay: 5s;
-    -webkit-animation-duration: 1s;
-    -webkit-animation-delay: 5s;
-}
-
-.fourth {
-    -moz-animation-duration: 1s;
-    -moz-animation-delay: 6.5s;
-    -webkit-animation-duration: 1s;
-    -webkit-animation-delay: 6.5s;
+    -webkit-animation-delay: 1.5s;
 }
 
 .links {
