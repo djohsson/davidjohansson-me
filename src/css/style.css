@@ -61,11 +61,11 @@ a:active {
     top: 150px;
     left: 50%;
     min-width: 600px;
-    max-width: 600px;
+    max-width: 800px;
     -moz-transform: translateX(-50%) translateY(0%);
     -webkit-transform: translateX(-50%) translateY(0%);
     transform: translateX(-50%) translateY(0%);
-    color: #5F1488;
+    color: #FBE5F2;
 }
 
 .project-container {
@@ -79,8 +79,14 @@ a:active {
     color: #2D1A39;
 }
 
-.project_descr {
+.project-descr {
 
+}
+
+.security-container {
+    width: 100%;
+    bottom: 0;
+    font-size: 130%;
 }
 
 .skill {
